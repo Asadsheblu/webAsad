@@ -213,7 +213,7 @@ body.light-theme {
 
 .section__title {
   font-size: var(--h2-font-size);
-  color: var(--first-color);
+  color: #11b9ac;
   margin-bottom: 2rem;
 }
 
@@ -633,7 +633,7 @@ body.light-theme {
 
 .skills .bxs-badge-check {
   font-size: 1rem;
-  color: var(--first-color);
+  color:#0a58ca;
 }
 
 .skills__name {
